@@ -1,0 +1,16 @@
+El proyecto fue desarrollado y probado en SpringBoot 3.4.3 y Java 17 con el servidor embebido.
+Se agregaron las dependencias para:
+*Maven
+*Data JPA
+*Web MVC
+*Driver Postgres
+Para levantar el proyecto ejecutar los comandos:
+mvn clean
+mvn install
+
+CONSIDERACIÓN:
+La base de datos debe estar creada previamente y se llama: store_db
+Se corre sobre el puerto estándar: 5432
+El usuario y contraseña de base de datos, depende la conexión y el perfil.
+La tabla de store se crea automáticamente.
+
