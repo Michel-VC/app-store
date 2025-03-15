@@ -1,5 +1,8 @@
 # Proyecto Spring Boot - CRUD básico de test para prueba técnica
 
+Autor: Michel Velázquez Carrillo.
+Se realiza con fines prácticos y test para una prueba técnica.
+
 Este proyecto es una aplicación desarrollada con **Spring Boot 3.4** para ejemplificar un CRUD. 
 Utiliza **PostgreSQL** como sistema de gestión de bases de datos. 
 El sistema incluye operaciones básicas de gestión sobre la entidad Store mapeada por JPA.
